@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mlynchyk
 - 👀 I’m interested in kayaking and mountains
-- 🌱 I’m currently learning how to run nodes
-- 💞️ I’m looking to collaborate on Omni 
+- 🌱 I’m currently learning how to run nodes and Pyton
+- 💞️ I’m looking to get a job
 - 📫 How to reach me  - email )))
 
 <!---
